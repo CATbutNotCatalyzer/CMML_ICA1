@@ -60,7 +60,6 @@ The simulation workflow was:
 ├── mdp/
 ├── scripts/
 ├── r/
-├── pymol/
 ├── analysis/
 └── docs/
 ```
