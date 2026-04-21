@@ -63,6 +63,7 @@ The simulation workflow was:
 ├── pymol/
 ├── analysis/
 └── docs/
+```
 
 ## Software and resources used
 
